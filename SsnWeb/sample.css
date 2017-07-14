@@ -1,0 +1,85 @@
+
+#wrapper{
+	height:700px;
+  /* border:1px solid black;*/
+}
+
+#left{
+    	color: black;
+        background-color:white;
+    	text-align:left;
+	width:650px;
+	position:absolute;
+	left:50px;
+	/*border: 1px solid blue;*/
+}
+
+#heading{
+	background-color:#000080;
+	color:white;
+	text-align:left;
+	width: 1000px;
+	
+}
+
+#righttop{
+	background-color:white;
+	width:300px;
+	height:300px;
+	float:right;
+	color:black;
+	text-align:left;
+	position:absolute;
+	left:900px;
+	top:300px;
+	/*border:1px solid green;*/}
+
+#rightbottom{
+	background-color:white;
+	width:300px;
+	height:300px;
+	float:right;
+	color:black;
+	text-align:left;
+	position:absolute;
+	left:900px;
+	top:600px;
+	/*border: 1px solid red;*/
+}
+#col1{
+        color: black;
+        background-color:white;
+    	text-align:left;
+	height:650px;
+	width:200px;
+	position:absolute;
+	left:50px;
+}
+
+#col2{
+	color: black;
+        background-color:white;
+    	text-align:left;
+	width:400px;
+	height:650px;	
+	/*border-style:solid;*/
+	position:absolute;
+	left:251px;
+}
+
+
+#footer{
+	background-color:#E6E6FA;
+	position: absolute;
+	top:1070px; width:1500px;
+	
+}	
+body,html {
+    margin:100;
+    padding:100;
+    background-image: url("hair.png");
+    height:700px;
+    color:black;
+   /* background:white;*/
+    }
+

@@ -1,0 +1,36 @@
+<DOCTYPE!html>
+<head>
+	<title>EVENTS</title>
+	<meta name="viewport" content="width=device:width" initial scale="1">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/events.css"></link>
+	 <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+	<!--Image--><div>
+		<img src="img/top.jfif" style="width:90%;height:30%">
+	</div>
+	<!--NAV BAR OG HOME PAGE-->
+	<br>
+	<div id="a">
+	<div id="left">
+		<ul class="nav nav-pills nav-stacked" >
+			<li><a href="1year.html" target="_self">Workshop on computational thnking</a></li>
+			<li><a href="embed.html" target="_self">Embedded systems</a></li>
+			<li><a href="con.html" target="_self">Conferences</a></li>
+			<li><a href="fdp.html" target="self">FDP</a></li>
+			<li><a href="paradigm.html" target="_self">PARADIGM</a></li>
+		</ul>
+	</div>
+	<div name="right" id="right">
+		<p>Hellooo!!!!</p>
+		</div>
+	</div>
+</div>
+</div>
+</body>
+
+
+</html>

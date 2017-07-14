@@ -1,0 +1,29 @@
+Dr. Chitra Babu 
+  B.E., M.E. (C.S.E.), M.S. (C.I.S.), Ph.D.
+
+Dr. Chitra Babu, Professor and Head of the 
+Department of Computer Science and Engineering
+has 20 years of teaching and research experience. 
+Her primary research interests include Cloud 
+Computing, Distributed data processing using 
+frameworks such as Spark, Internet of Things 
+(IoT) and applying principles of Software 
+Engineering and Software architecture to these 
+domains.
+
+She received her Ph.D. from the Indian Institute 
+of Technology, Madras (IITM). She received her 
+M.E in Computer Science and Engineering from 
+College of Engineering, Guindy, M.S in Computer 
+and Information Systems from the Ohio State 
+University, Columbus, Ohio, USA. She received 
+her B.E from P. S. G. College of Technology.
+
+She has worked in AT&T Bell Labs at Columbus, 
+Ohio, USA and has also worked as a consultant 
+in the area of Document Imaging and management 
+at Michigan, USA. She is a member of the 
+professional society, Association of Computing 
+Machinery(ACM), Life member of Computer Society 
+of India(CSI) and Indian Society for Technical 
+education(ISTE).
